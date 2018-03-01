@@ -21,7 +21,7 @@ General Assembly, Data Science Immersive
 | [scrape.py](https://git.generalassemb.ly/mjschillawski/project-3/blob/master/scrape.py) | Reddit webscraper |
 | [fast_scrape.py](https://git.generalassemb.ly/mjschillawski/project-3/blob/master/fast_scrape.py) | Fast (limited) Reddit webscraper |
 |   [Presentation_Deck](https://docs.google.com/presentation/d/1leYDsorOnXZYO6Z4x6g6uOh5kP6r90iXnk5EQ_Pr_sU/edit?usp=sharing)    |    Results slide deck    |
-| [archive](https://git.generalassemb.ly/mjschillawski/project-3/tree/master/archive) | Tracked working files |
+| [presentation](./presentation) | Presentation images |
 
 ## Data Description
 
